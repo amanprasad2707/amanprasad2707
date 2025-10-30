@@ -2,7 +2,9 @@
 
 <!-- PROFILE HEADER -->
 <p align="center">
-  <img src="./assets/profile_header.png" alt="Header" width="100%">
+  <a href="./Top_banner.jog">
+    <img src="./Top_banner.jpg" alt="Banner" width="100%">
+  </a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Aman Prasad</h1>
